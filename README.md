@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Dennis Orina
 - 👀 I’m interested in everything Tech
-- 🌱 I’m an Engineering Manager graduate
+- 🌱 I’m a Technical Management graduate
 - 💞️ I’m looking to collaborate on both IT and management fields
 - 📫 How to reach me @(https://alphaorina.github.io/)
 
