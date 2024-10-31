@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Alphaorina
-- 👀 I’m interested in everything Teh
-- 🌱 I’m currently learning Technical Management
+- 👋 Hi, I’m @Dennis Orina
+- 👀 I’m interested in everything Tech
+- 🌱 I’m an Engineering Manager graduate
 - 💞️ I’m looking to collaborate on both IT and management fields
-- 📫 How to reach me @ alpharina.works
+- 📫 How to reach me @(https://alphaorina.github.io/)
 
 <!---
 Alphaorina/Alphaorina is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
